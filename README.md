@@ -3,13 +3,13 @@
 SZSolutions威胁分析辅助工具:
 
 全流量
-SZSolutions-v1.0.6.exe -m pack -f [全流量导出文件] -t 全流量（默认全流量）-c [指定config文件]
+SZSolutions-v1.0.7.exe -m pack -f [全流量导出文件] -t 全流量（默认全流量）-c [指定config文件]
 ESPC
-SZSolutions-v1.0.6.exe -m pack -t ESPC -f [ESPC.xlsx] -c [指定config文件]
+SZSolutions-v1.0.7.exe -m pack -t ESPC -f [ESPC.xlsx] -c [指定config文件]
 晚间检查上报单
-SZSolutions-v1.0.6.exe -m check  -f [上报单.xlsx] -c [指定config文件]
+SZSolutions-v1.0.7.exe -m check  -f [上报单.xlsx] -c [指定config文件]
 
-SZSolutions-v1.0.6.exe -h 查看全部参数说明
+SZSolutions-v1.0.7.exe -h 查看全部参数说明
 ```shell
  _______  ________  _  _______        _  ____  _____
 |_____  ||  ____  || ||_____  |      | ||__  ||___  |
